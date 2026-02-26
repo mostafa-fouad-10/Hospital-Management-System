@@ -1,0 +1,4 @@
+P001|Ahmed Hassan|30|Male|Flu
+P002|Mona Ali|25|Female|Diabetes
+P003|Omar Khaled|40|Male|Hypertension
+P004|Mohamed|21|male|Heart

@@ -1,0 +1,3 @@
+D001|Dr. Samir Nabil|45|Male|Cardiology
+D002|Dr. Salma Youssef|38|Female|Endocrinology
+D003|Dr. Tarek Mahmoud|50|Male|General Medicine
